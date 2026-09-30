@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-archive",
+  "private": true,
+  "description": "A warm-toned monochrome archive: near-black ink on cream paper, pill geometry, zero shadows, and a typewriter mono reserved for financial figures.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
