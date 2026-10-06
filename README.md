@@ -44,10 +44,14 @@ controls, and a typewriter mono reserved for financial figures.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Archive**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Archive** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/archive/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Archive/`, then choose Borozdov Archive under
 Settings → Appearance → Themes.
@@ -71,5 +75,4 @@ MIT — see [LICENSE](LICENSE).
 бумага под витринным светом, и тёмный «Хранилище» — тот же тёплый монохромный архив
 наизнанку. Почти чёрные чернила, кремовые карточки, линии вместо теней, кнопки-пилюли и
 моноширинный Archive Mono (урезанный UM Typewriter) только для финансовых цифр, кода, тегов,
-заголовков таблиц и подписей колл-аутов. Устанавливается из каталога: Настройки → Оформление
-→ Темы → Настроить → Borozdov Archive → Установить и применить.
+заголовков таблиц и подписей колл-аутов. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Archive в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
